@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadyTech.BrewCoffee2023New.API", "ReadyTech.BrewCoffee2023New.API.csproj", "{9C0401AF-4B57-4D10-8867-8B075B7AB856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0401AF-4B57-4D10-8867-8B075B7AB856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0401AF-4B57-4D10-8867-8B075B7AB856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0401AF-4B57-4D10-8867-8B075B7AB856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0401AF-4B57-4D10-8867-8B075B7AB856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B425B190-8ACD-4596-8EBA-ED72C4B5E74B}
+	EndGlobalSection
+EndGlobal
