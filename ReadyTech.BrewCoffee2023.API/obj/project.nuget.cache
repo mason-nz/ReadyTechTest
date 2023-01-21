@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dFbim3LnrXdJq8zLlOoi4FTnAvV3SiTdhv/a1ijks3xFvdloPZ61n4JnD2TPzh6JPvyaA1/ZhYGAzfC7nMm6Uw==",
+  "success": true,
+  "projectFilePath": "/Users/masj/Desktop/dotnet-projects/ReadyTech.BrewCoffee2023.API/ReadyTech.BrewCoffee2023.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/masj/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/masj/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/masj/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/masj/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/masj/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/masj/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

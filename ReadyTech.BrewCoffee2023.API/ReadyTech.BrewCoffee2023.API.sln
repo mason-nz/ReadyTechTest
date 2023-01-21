@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadyTech.BrewCoffee2023.API", "ReadyTech.BrewCoffee2023.API.csproj", "{A2CD685B-2610-459C-8E54-CC4081EA40E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadyTech.BrewCoffee2023.API.Test", "..\ReadyTech.BrewCoffee2023.API.Test\ReadyTech.BrewCoffee2023.API.Test.csproj", "{6B86A3AB-BF09-4047-97B8-F6773BDDB797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CD685B-2610-459C-8E54-CC4081EA40E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CD685B-2610-459C-8E54-CC4081EA40E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CD685B-2610-459C-8E54-CC4081EA40E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CD685B-2610-459C-8E54-CC4081EA40E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B86A3AB-BF09-4047-97B8-F6773BDDB797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B86A3AB-BF09-4047-97B8-F6773BDDB797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B86A3AB-BF09-4047-97B8-F6773BDDB797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B86A3AB-BF09-4047-97B8-F6773BDDB797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53671A5A-1056-4511-9775-7047A5DEDEA6}
+	EndGlobalSection
+EndGlobal
